@@ -88,6 +88,10 @@ class MyDebug(object):
             send_buffer = send_struct.pack()
             self.sock.send(send_buffer)
 
+            # 同步发送和接受数据
+            # 确保设置生效后能得到正确的返回,比如设置寄存器值之后,加延时之后才能得到修改之后的返回值
+            time.sleep(0.1)
+
             # 获取数据
             recv_data = self.sock.recv(8192)
             if recv_data == 0 or len(recv_data) == 0 or recv_data == None:
