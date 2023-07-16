@@ -160,7 +160,7 @@ class MyDebug(object):
         try:
             ptr = MyStruct()
             ptr.Command_String_A = "SetDebug".encode("utf8")
-            ptr.Command_String_B = action.encode("utf8")
+            ptr.Command_String_B = action.upper().encode("utf8") #大小写错误使发送的指令判断错误，从而无返回值，导致程序卡死
 
             for index in range(1,count):
                 recv_struct = self.send_recv_struct(ptr)
