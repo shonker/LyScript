@@ -19,6 +19,8 @@
 </div>
 <br>
 
+<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com
+<br>
 Python 包请安装与插件一致的版本，在cmd命令行下执行pip命令即可安装，推荐两个包全部安装。
 
  - 安装标准包：`pip install LyScript32` 或者 `pip install LyScript64`
