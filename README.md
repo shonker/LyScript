@@ -19,7 +19,7 @@
 </div>
 <br>
 
-<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com
+<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com<b>
 <br>
 Python 包请安装与插件一致的版本，在cmd命令行下执行pip命令即可安装，推荐两个包全部安装。
 
