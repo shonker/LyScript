@@ -18,7 +18,8 @@
 
 <b>The project is undergoing rewriting and significant improvements, which will make it easier to use and provide convenience for oneself and others.</b>
 <br>
-<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com</b>
+<The LyScript project is establishing an independent website and will carefully complete the interface description in the future, as well as adding other functions besides script forwarding.</b>
+<b>Web page：http://lyscript.lyshark.com</b>
 </div>
 <br>
 <br>
