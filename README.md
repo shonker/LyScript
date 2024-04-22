@@ -15,11 +15,12 @@
 
 <br><br>
 一款 x64dbg 自动化控制插件，通过Python控制x64dbg的行为，实现远程动态调试，解决了逆向工作者分析程序，反病毒人员脱壳，漏洞分析者寻找指令片段，原生脚本不够强大的问题，通过与Python相结合利用Python语法的灵活性以及其丰富的第三方库，加速漏洞利用程序的开发，辅助漏洞挖掘以及恶意软件分析。
-  
+
+<b>The project is undergoing rewriting and significant improvements, which will make it easier to use and provide convenience for oneself and others.</b>
+<br>
+<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com</b>
 </div>
 <br>
-
-<b>LyScript项目正在建立独立网站：http://lyscript.lyshark.com</b>
 <br>
 Python 包请安装与插件一致的版本，在cmd命令行下执行pip命令即可安装，推荐两个包全部安装。
 
