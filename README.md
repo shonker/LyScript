@@ -3,7 +3,7 @@
 	<img width="150" src="./svg/lyscript_png.jpg" />
  <br><br>
   
-  [简体中文](README.md) | [繁體中文(中國)](README-TC.md) | [ENGLISH](README-EN.md) | [русский язык ](README-RU.md)
+  [简体中文](README-CN.md) | [繁體中文(中國)](README-TC.md) | [ENGLISH](README-EN.md) | [русский язык ](README-RU.md)
 
   <br>
   
